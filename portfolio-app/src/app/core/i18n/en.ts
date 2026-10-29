@@ -76,9 +76,8 @@ export const en = {
   'exp.fin.what': 'Two fintech investment platforms: P2P lending and crowdfunding.',
   'exp.fin.1':
     'React and TypeScript work on investor-facing interfaces, in parallel on both products.',
-  'exp.pesa.what': 'Fintech product with a legacy React codebase.',
-  'exp.pesa.1':
-    'Recomposed and refactored legacy components and replaced loose JavaScript types with strict TypeScript.',
+  'exp.fin.2':
+    'Recomposed and refactored legacy React components and replaced loose JavaScript types with strict TypeScript.',
   'exp.b.role': 'Front-end Developer and Team Lead',
   'exp.b.1': 'Led and mentored up to four project teams of three to six engineers in parallel.',
   'exp.b.2':

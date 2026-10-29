@@ -74,9 +74,8 @@ export const pl: Messages = {
   'exp.fin.what': 'Dwie platformy inwestycyjne fintech: pożyczki P2P i crowdfunding.',
   'exp.fin.1':
     'Praca w React i TypeScript nad interfejsami dla inwestorów, równolegle przy obu produktach.',
-  'exp.pesa.what': 'Produkt fintech ze starszą bazą kodu w React.',
-  'exp.pesa.1':
-    'Przebudowałem i zrefaktoryzowałem starsze komponenty oraz zastąpiłem luźne typy JavaScript ścisłym TypeScriptem.',
+  'exp.fin.2':
+    'Przebudowałem i zrefaktoryzowałem starsze komponenty React oraz zastąpiłem luźne typy JavaScript ścisłym TypeScriptem.',
   'exp.b.role': 'Front-end Developer i Team Lead',
   'exp.b.1':
     'Równolegle prowadziłem i mentorowałem do czterech zespołów projektowych po trzech do sześciu inżynierów.',
